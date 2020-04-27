@@ -21,7 +21,7 @@ var html = `
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
   <title>${authConfig.siteName}</title>
   <link rel="icon" href="//rawcdn.githack.com/neoascetic/rawgithack/4558441/sushi.png">
-  <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/ihavenoid/GOIndexsarah@${authConfig.version}/app1.js"></script>
+  <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/ihavenoid/OGIndex/app1.js"></script>
   </head>
 <body>
 </body>
